@@ -1,0 +1,2 @@
+# futoverseny_webalkalmazas
+futoverseny webalkalmazas alkalmazásfejlesztés orara
